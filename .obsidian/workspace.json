@@ -1,0 +1,210 @@
+{
+  "main": {
+    "id": "ebbb32ae54dc12ea",
+    "type": "split",
+    "children": [
+      {
+        "id": "411faa75b8818ef8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "173e43cb46336b01",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "❌ Causas de Descalificación.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "❌ Causas de Descalificación"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "686ff798574df6a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "199c95a58352e640",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6cf6ffd1ca9a4bf4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "940284fc0b095e0d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "d398a29c9f6fe615",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "54a1a458d981edf7",
+    "type": "split",
+    "children": [
+      {
+        "id": "d8f0497cf1bb541d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d5799ed966861219",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "❌ Causas de Descalificación.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de ❌ Causas de Descalificación"
+            }
+          },
+          {
+            "id": "813c597bed68bded",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "❌ Causas de Descalificación.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de ❌ Causas de Descalificación"
+            }
+          },
+          {
+            "id": "28494aad6c8e6e6e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "74bfa4df85103698",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "da3d8d504a8a5bd9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "❌ Causas de Descalificación.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de ❌ Causas de Descalificación"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
+    }
+  },
+  "active": "173e43cb46336b01",
+  "lastOpenFiles": [
+    "💵 Caso Morelia — Propuesta Económica.md",
+    "📅 Caso Morelia — Calendario de Eventos.md",
+    "🏗️ Caso Morelia — Datos y Convocatoria.md",
+    "📝 Recurso de Inconformidad.md",
+    "🔩 Análisis de Precios Unitarios (APU).md",
+    "❌ Causas de Descalificación.md",
+    "🔐 Régimen de Garantías.md",
+    "📋 Tipos de Procedimiento de Contratación.md",
+    "📊 Etapa 4 — Evaluación de Proposiciones.md",
+    "📅 Proceso Cronológico de Licitación.md",
+    "💰 Montos Máximos PEF 2025 — Anexo 9.md",
+    "⚖️ Marco Legal LOPSRM-LAASSP.md",
+    "🏛️ MOC — Licitaciones Públicas México.md",
+    "🔄 Reforma 2025 — Cambios Clave.md",
+    "Licitaciones Públicas México 2024-2025_ Proceso y Simulación.md",
+    "guia_licitaciones_mexico.md",
+    "chat-deep-licitaciones-research-report.md",
+    "Sin confirmar 985876.crdownload",
+    "02_Simulacion_Licitacion_Morelia.md",
+    "01_Marco_Legal_y_Proceso.md",
+    "Bienvenido.md"
+  ]
+}
