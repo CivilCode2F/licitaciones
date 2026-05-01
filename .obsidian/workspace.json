@@ -94,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "❌ Causas de Descalificación.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de ❌ Causas de Descalificación"
+              "title": "Enlaces entrantes"
             }
           },
           {
@@ -113,12 +112,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "❌ Causas de Descalificación.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de ❌ Causas de Descalificación"
+              "title": "Enlaces salientes"
             }
           },
           {
@@ -156,13 +154,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "❌ Causas de Descalificación.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de ❌ Causas de Descalificación"
+              "title": "Esquema"
             }
           }
         ]
@@ -185,13 +182,14 @@
   },
   "active": "173e43cb46336b01",
   "lastOpenFiles": [
+    "Licitaciones Públicas México 2024-2025_ Proceso y Simulación.md",
+    "❌ Causas de Descalificación.md",
     "📖 Glosario de Términos Clave.md",
     "💵 Caso Morelia — Propuesta Económica.md",
     "📅 Caso Morelia — Calendario de Eventos.md",
     "🏗️ Caso Morelia — Datos y Convocatoria.md",
     "📝 Recurso de Inconformidad.md",
     "🔩 Análisis de Precios Unitarios (APU).md",
-    "❌ Causas de Descalificación.md",
     "🔐 Régimen de Garantías.md",
     "📋 Tipos de Procedimiento de Contratación.md",
     "📊 Etapa 4 — Evaluación de Proposiciones.md",
@@ -200,7 +198,6 @@
     "⚖️ Marco Legal LOPSRM-LAASSP.md",
     "🏛️ MOC — Licitaciones Públicas México.md",
     "🔄 Reforma 2025 — Cambios Clave.md",
-    "Licitaciones Públicas México 2024-2025_ Proceso y Simulación.md",
     "guia_licitaciones_mexico.md",
     "chat-deep-licitaciones-research-report.md",
     "Sin confirmar 985876.crdownload",
